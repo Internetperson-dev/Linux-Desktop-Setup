@@ -7,7 +7,7 @@
 dotfilesrepo="https://github.com/Internetperson-dev/dots"
 progsfile="https://raw.githubusercontent.com/Internetperson-dev/Linux-Desktop-Setup/refs/heads/main/progs.csv"
 aurhelper="yay"
-repobranch="master"
+repobranch="main"
 export TERM=ansi
 
 rssurls="https://drewdevault.com/blog/index.xml

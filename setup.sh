@@ -13,7 +13,9 @@ export TERM=ansi
 rssurls="https://drewdevault.com/blog/index.xml
 https://hnrss.org/newest
 https://zydezu.github.io/
-https://denshi.org/index.xml"
+https://denshi.org/index.xml
+https://danluu.com/atom.xml
+https://dolphin-emu.org/blog/feeds/"
 
 ### FUNCTIONS ###
 

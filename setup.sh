@@ -4,8 +4,8 @@
 
 ### OPTIONS AND VARIABLES ###
 
-dotfilesrepo="https://github.com/lukesmithxyz/voidrice.git"
-progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/static/progs.csv"
+dotfilesrepo="https://github.com/Internetperson-dev/dots"
+progsfile="https://raw.githubusercontent.com/Internetperson-dev/Linux-Desktop-Setup/refs/heads/main/progs.csv"
 aurhelper="yay"
 repobranch="master"
 export TERM=ansi

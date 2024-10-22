@@ -13,7 +13,8 @@ https://hnrss.org/newest
 https://zydezu.github.io/
 https://denshi.org/index.xml
 https://danluu.com/atom.xml
-https://dolphin-emu.org/blog/feeds/"
+https://dolphin-emu.org/blog/feeds/
+https://tesk.page/feed.xml"
 
 ### FUNCTIONS ###
 
